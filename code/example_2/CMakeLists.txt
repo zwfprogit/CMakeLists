@@ -1,0 +1,5 @@
+project(HELLO)
+set(SRC_LIST main.c hello.c)
+set(CMAKE_VERBOSE_MAKEFILE on)
+message("message:"${CMAKE_VERBOSE_MAKEFILE})
+add_executable(hello ${SRC_LIST})
