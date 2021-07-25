@@ -1,0 +1,4 @@
+set(hello 
+/home/myroot/LinuxC/LinuxC/CMakeLists/code/example_8_source_group/libhello/include/hello.h
+/home/myroot/LinuxC/LinuxC/CMakeLists/code/example_8_source_group/libhello/source/hello.c
+)
